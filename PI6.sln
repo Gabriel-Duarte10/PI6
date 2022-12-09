@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{90456A1A-5517-6D2B-4D0B-28776E55221E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lootlocker.lootlockersdk.runtime", "lootlocker.lootlockersdk.runtime.csproj", "{4073714F-BC16-FCE2-FAA0-8535A0F49936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{14B0120F-C676-1D82-A4BC-3938D74FB276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90456A1A-5517-6D2B-4D0B-28776E55221E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90456A1A-5517-6D2B-4D0B-28776E55221E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90456A1A-5517-6D2B-4D0B-28776E55221E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90456A1A-5517-6D2B-4D0B-28776E55221E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4073714F-BC16-FCE2-FAA0-8535A0F49936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4073714F-BC16-FCE2-FAA0-8535A0F49936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4073714F-BC16-FCE2-FAA0-8535A0F49936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4073714F-BC16-FCE2-FAA0-8535A0F49936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B0120F-C676-1D82-A4BC-3938D74FB276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B0120F-C676-1D82-A4BC-3938D74FB276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B0120F-C676-1D82-A4BC-3938D74FB276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B0120F-C676-1D82-A4BC-3938D74FB276}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
